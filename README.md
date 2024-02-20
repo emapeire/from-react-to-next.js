@@ -1,1 +1,1 @@
-# From React to Next.js: offitial tutorial by [Nextjs.org](https://nextjs.org/learn)
+## From React to Next.js: Official tutorial from [Nextjs.org](https://nextjs.org/learn)
